@@ -1,8 +1,3 @@
-
-
-
-
-
 echo "doas or sudo?"
 read dors
 
